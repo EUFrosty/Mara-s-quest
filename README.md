@@ -6,3 +6,4 @@ Space - attack
 LCTRL - magic
 Q and E - swap weapon and magic
 M - open upgrade menu
+ 
