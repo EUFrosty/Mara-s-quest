@@ -1,5 +1,6 @@
 # Slayy-game
 A game made in python using pygame
+Help Mara defeat all the monsters
 
 WSAD controls
 Space - attack
