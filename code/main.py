@@ -9,7 +9,7 @@ class Game:
         # general setup
         pygame.init()
         self.screen = pygame.display.set_mode((WIDTH, HEIGTH))
-        pygame.display.set_caption('Slay')
+        pygame.display.set_caption("Mara's quest")
         self.clock = pygame.time.Clock()
 
         self.level = Level()
